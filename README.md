@@ -76,6 +76,7 @@ Execute o script para inicializar o Apache SuperSet:
 **4.1** Em 'Settings', vá em 'Database Connections', e clique em '+ DATABASE', vamos configurar uma conexão.
 
 **4.2** Selecione a opção 'SQLite':
+
 ![alt text](assets/dbconnection1.png)
 
 **4.3** Dê um nome a essa conexão e adicione o caminho ao banco de dados desse repositório:
