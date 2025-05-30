@@ -1,4 +1,4 @@
-# super-set-client
+# sample-superset
 
 Este projeto contém a configuração de ambiente e os comandos iniciais para rodar o **Apache Superset** em ambiente de desenvolvimento local.
 
